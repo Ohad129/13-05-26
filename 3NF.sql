@@ -80,4 +80,4 @@ UPDATE authors
 SET author_name = 'Jane Doe-Smith'
 WHERE author_id = 'A1';
 
--- This query will change only one row in the authors table and it will look for the ID so it is certain of the authos identity (same name mistake in big sata)
+-- This query will change only one row in the authors table and it will look for the ID so it is certain of the authors identity (same name mistake in big sata)
