@@ -1,5 +1,5 @@
 -- 1. the columms who has partial dependancy are: product_name and unit_price - both depends on product_ID. customer_name depends only on order_id.
--- 2. the diagram is on main folder
+-- 2. the schema is on main folder
 -- 3. Write CREATE TABLE statements for all four tables.
 
 CREATE TABLE customers(
